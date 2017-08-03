@@ -1,2 +1,0 @@
-beginner_tutorials:fcr2017:turtlesim_cleaner
--DCATKIN_DEVEL_PREFIX=/home/abdullah/fcr_catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/abdullah/fcr_catkin_ws/install -G Unix Makefiles

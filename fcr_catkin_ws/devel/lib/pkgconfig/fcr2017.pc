@@ -1,8 +1,0 @@
-prefix=/home/abdullah/fcr_catkin_ws/devel
-
-Name: fcr2017
-Description: Description of fcr2017
-Version: 0.0.0
-Cflags: -I/home/abdullah/fcr_catkin_ws/src/fcr2017/include
-Libs: -L/home/abdullah/fcr_catkin_ws/devel/lib 
-Requires: roscpp std_msgs geometry_msgs sensor_msgs tf
